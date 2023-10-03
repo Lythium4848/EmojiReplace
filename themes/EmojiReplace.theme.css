@@ -1,0 +1,26 @@
+/**
+ * @name EmojiReplace
+ * @author Lythium
+ * @author mwittrien
+ * @description Replaces Discord's Emojis with Emojis of a different Provider (Apple, Facebook...)
+ * @version 1.0.0
+ */
+
+
+/*
+    Supported Providers:
+		→ Apple
+		→ Facebook
+		→ Google
+		→ JoyPixels
+		→ Microsoft
+        → Microsoft3D (FluentUI)
+		→ OpenMoji
+		→ Samsung
+		→ Toss
+		→ WhatsApp
+*/
+
+/*																				      REPLACE THIS		*/
+/*																					     ↓↓↓↓↓			*/
+ @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft3D.css);
